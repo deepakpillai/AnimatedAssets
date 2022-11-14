@@ -11,7 +11,7 @@
 		0026749C291BAAAC0017E6B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0026749B291BAAAC0017E6B5 /* ContentView.swift */; };
 		0026749E291BAAB10017E6B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0026749D291BAAB10017E6B5 /* Assets.xcassets */; };
 		002674A1291BAAB10017E6B5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 002674A0291BAAB10017E6B5 /* Preview Assets.xcassets */; };
-		002674AF291BAAF50017E6B5 /* StarField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674A7291BAAF50017E6B5 /* StarField.swift */; };
+		002674AF291BAAF50017E6B5 /* FlyField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674A7291BAAF50017E6B5 /* FlyField.swift */; };
 		002674B0291BAAF50017E6B5 /* CircleLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674A8291BAAF50017E6B5 /* CircleLoader.swift */; };
 		002674B1291BAAF50017E6B5 /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674A9291BAAF50017E6B5 /* ProgressButton.swift */; };
 		002674B3291BAAF50017E6B5 /* CircleProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674AB291BAAF50017E6B5 /* CircleProgress.swift */; };
@@ -26,7 +26,7 @@
 		0026749B291BAAAC0017E6B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0026749D291BAAB10017E6B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		002674A0291BAAB10017E6B5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		002674A7291BAAF50017E6B5 /* StarField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarField.swift; sourceTree = "<group>"; };
+		002674A7291BAAF50017E6B5 /* FlyField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyField.swift; sourceTree = "<group>"; };
 		002674A8291BAAF50017E6B5 /* CircleLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleLoader.swift; sourceTree = "<group>"; };
 		002674A9291BAAF50017E6B5 /* ProgressButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressButton.swift; sourceTree = "<group>"; };
 		002674AB291BAAF50017E6B5 /* CircleProgress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleProgress.swift; sourceTree = "<group>"; };
@@ -72,7 +72,7 @@
 				002674AE291BAAF50017E6B5 /* InfiniteCircleLoader.swift */,
 				002674A9291BAAF50017E6B5 /* ProgressButton.swift */,
 				002674AC291BAAF50017E6B5 /* PyramidLoader.swift */,
-				002674A7291BAAF50017E6B5 /* StarField.swift */,
+				002674A7291BAAF50017E6B5 /* FlyField.swift */,
 				002674AD291BAAF50017E6B5 /* SubmitLoaderButton.swift */,
 				0026749D291BAAB10017E6B5 /* Assets.xcassets */,
 				0026749F291BAAB10017E6B5 /* Preview Content */,
@@ -160,7 +160,7 @@
 			files = (
 				002674B5291BAAF60017E6B5 /* SubmitLoaderButton.swift in Sources */,
 				0026749C291BAAAC0017E6B5 /* ContentView.swift in Sources */,
-				002674AF291BAAF50017E6B5 /* StarField.swift in Sources */,
+				002674AF291BAAF50017E6B5 /* FlyField.swift in Sources */,
 				002674B3291BAAF50017E6B5 /* CircleProgress.swift in Sources */,
 				002674B6291BAAF60017E6B5 /* InfiniteCircleLoader.swift in Sources */,
 				002674B4291BAAF60017E6B5 /* PyramidLoader.swift in Sources */,
