@@ -11,7 +11,7 @@
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/9.gif" width="160" />
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/10.gif" width="160" />
 
-
+<p/>
 <p><h2 align="left">Installation</h2></p>
 
 Drag & Drop the required files to your project
