@@ -17,6 +17,6 @@
 
 
 
-<p><h2 align="left">Installation</h2></p>
+<h2 align="left">Installation</h2>
 
 Drag & Drop the required files to your project
