@@ -18,6 +18,7 @@
 		002674B4291BAAF60017E6B5 /* PyramidLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674AC291BAAF50017E6B5 /* PyramidLoader.swift */; };
 		002674B5291BAAF60017E6B5 /* SubmitLoaderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674AD291BAAF50017E6B5 /* SubmitLoaderButton.swift */; };
 		002674B6291BAAF60017E6B5 /* InfiniteCircleLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002674AE291BAAF50017E6B5 /* InfiniteCircleLoader.swift */; };
+		00B6EAF4296672DB00AE9B0C /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B6EAF3296672DA00AE9B0C /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		002674AC291BAAF50017E6B5 /* PyramidLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PyramidLoader.swift; sourceTree = "<group>"; };
 		002674AD291BAAF50017E6B5 /* SubmitLoaderButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubmitLoaderButton.swift; sourceTree = "<group>"; };
 		002674AE291BAAF50017E6B5 /* InfiniteCircleLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfiniteCircleLoader.swift; sourceTree = "<group>"; };
+		00B6EAF3296672DA00AE9B0C /* CircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				002674AC291BAAF50017E6B5 /* PyramidLoader.swift */,
 				002674A7291BAAF50017E6B5 /* FlyField.swift */,
 				002674AD291BAAF50017E6B5 /* SubmitLoaderButton.swift */,
+				00B6EAF3296672DA00AE9B0C /* CircleView.swift */,
 				0026749D291BAAB10017E6B5 /* Assets.xcassets */,
 				0026749F291BAAB10017E6B5 /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 				002674B3291BAAF50017E6B5 /* CircleProgress.swift in Sources */,
 				002674B6291BAAF60017E6B5 /* InfiniteCircleLoader.swift in Sources */,
 				002674B4291BAAF60017E6B5 /* PyramidLoader.swift in Sources */,
+				00B6EAF4296672DB00AE9B0C /* CircleView.swift in Sources */,
 				002674B0291BAAF50017E6B5 /* CircleLoader.swift in Sources */,
 				002674B1291BAAF50017E6B5 /* ProgressButton.swift in Sources */,
 				0026749A291BAAAC0017E6B5 /* AnimatedAssetsApp.swift in Sources */,
