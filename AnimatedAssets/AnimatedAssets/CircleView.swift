@@ -23,7 +23,7 @@ struct CircleContentView: View {
     @State var width: CGFloat = 150
     @State var height: CGFloat = 150
     @State var lineWidth: CGFloat = 150
-    var animatedType: AnimatedTypes = .linear
+    var animatedType: AnimatedTypes = .pulse
     var body: some View {
         ZStack {
             Color.black
