@@ -13,5 +13,5 @@
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/10.gif" width="160" />
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/11.gif" width="265" />
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/12.gif" width="265" />
-<img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/12.gif" width="265" />
+<img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/13.gif" width="265" />
 </p>
