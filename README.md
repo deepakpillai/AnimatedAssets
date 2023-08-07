@@ -15,3 +15,6 @@
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/12.gif" width="265" />
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/13.gif" width="265" />
 </p>
+
+### Use as you wish
+- Just drag and drop the files you need to your projects
