@@ -4,7 +4,7 @@
 ### Use as you wish
 - Just drag and drop the files you need to your projects
 
-### Results:-
+### Results:
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/1.gif" width="160" />
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/2.gif" width="160" />
 <img style="padding:10px" align="left" src="https://github.com/deepakpillai/AnimatedAssets/blob/main/GIFs/3.gif" width="160" />
